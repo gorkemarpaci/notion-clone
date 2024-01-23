@@ -6,9 +6,9 @@ Features:
 + Clerk: Authentication 🔐
 + BlockNoteJs: Notion-style editor 📝
 + EdgeStore: 
-           - File upload
-           - File deletion
-           - File replacement
+  - File upload
+  - File deletion
+  - File replacement
 + Light and Dark mode 🌓
 + Infinite children documents 🌲
 + Trash can & soft delete 🗑️
