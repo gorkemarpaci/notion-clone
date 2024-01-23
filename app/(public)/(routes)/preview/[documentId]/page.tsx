@@ -52,7 +52,7 @@ const DocumentIdPage = ({ params }: DocumentIdPageProps) => {
   }
 
   return (
-    <div className="pb-40">
+    <div className="dark:bg-[#1F1F1F] pb-40">
       <Cover preview url={document.coverImage} />
       <div className="md:max-w-3xl lg:max-w-4xl md:mx-auto lg:mx-[80px]">
         <Toolbar preview initialData={document} />
