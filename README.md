@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Features:
 
++ TypeScript 🛡️
 + Convex: Real-time database 🔗
 + Clerk: Authentication 🔐
 + BlockNoteJs: Notion-style editor 📝
