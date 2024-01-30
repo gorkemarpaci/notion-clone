@@ -4,12 +4,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 **Node version 18.x.x**
 
-### Cloning the repository
-
-```shell
-git clone https://github.com/AntonioErdeljac/notion-clone-tutorial.git
-```
-
 ### Install packages
 
 ```shell
